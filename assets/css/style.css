@@ -1,0 +1,82 @@
+#header{
+    width:960px;
+    height:60px;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    background: rgb(58, 150, 127);
+}
+
+
+
+#myName{
+    float: left;
+    padding: 0px;
+    width: 30%;
+    height: 100%;
+    background: #7e3636;
+
+}
+
+#blank{
+    float: left;
+    padding: 0;
+    width: 30%;
+    height: 100%;
+    background: #252121;
+
+}
+
+#links{
+    float: left;
+    padding:0;
+    width: 40%;
+    height: 100%;
+    background: #631717;
+
+}
+
+#container{
+    width:960px;
+    padding: 0px;
+    margin-top:0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    background: rgb(68, 68, 129);
+
+}
+
+
+
+#section{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background: beige;
+
+
+}
+
+#mainPhoto{
+
+}
+
+#footer{
+    border: #7e3636;
+    clear: both;
+    background: rgb(119, 75, 75);
+
+}
+
+#copyR{
+  padding: 10px;
+  border-top: 10px;
+  border-style: solid;
+  border-color: rgb(126, 73, 73);
+  clear: both;
+  background: #ccc;
+
+}
